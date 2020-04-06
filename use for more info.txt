@@ -1,0 +1,16 @@
+-- Here are some links for more info on how to do this:
+
+https://github.com/yezhengli-Mr9/CIS530-computational-linguistics/blob/master/HW5-N-gram-models/README.md
+
+http://www.phontron.com/slides/nlp-programming-en-02-bigramlm.pdf
+
+https://www.dhgarrette.com/nlpclass/assignments/a3ngrams.html
+
+https://github.com/ddbourgin/numpy-ml/tree/master/numpy_ml/ngram
+
+https://github.com/Murdocc007/NLP/blob/12d784ded15ea83b4a9fdf1ec24ae8af5306b7a1/Assignment1/assignment1.py
+
+
+
+HERE'S THE LINK ANOTHER CLASSMATE IS USING TO BUILD OFF OF:
+https://github.com/ollie283/language-models/blob/master/LangModel.py

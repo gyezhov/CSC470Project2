@@ -1,0 +1,14 @@
+The corpora chosen for testing were a subset Stanfords sentence collection and a collection of economical reports. 
+These were chosen for several reasons, the first being that they are small in comparison to many ohter corpora which made testing
+faster and easier for the group. The second reason was because of the test data. The test data contains descriptions, mainly geography/location
+descriptions so we thought that the more causal vs more formal corpora would be interesting. The third reason is that both came preprocessed.
+This meant that our code had to do very little prepocessing itself. To expand this project to be more accepting and versitile, increasing the
+range of acceptable input corpora would be a priority.
+
+The smaller corpora chosen has lead to a possible error in the perpexilty calculation. The calculation results in the bigram performing
+worse than the unigram which is unexecpted. The margin of error leads us to believe there may be an error in the calculation but it
+would require more extensive testing and evalutaion to determine.
+
+The sentence generator picks a word at random from its list of vocab words to start and then proceeds to find the most likely following word.
+This does generate sentences but not in a probabilistic fashion which it should. It results in many sentences degrading into the same
+endings. 
